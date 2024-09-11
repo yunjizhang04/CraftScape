@@ -1,6 +1,7 @@
 # CraftScape
 
 ------------- READ ME -------------
+
 Hello.
  **EDIT from 2024. This was the first game I created entirely by myself in 2020 (I added this to GitHub in 2024). Currently, some of the graphics is missing and I am trying to resolve the issue. Otherwise, the game works fine. ENJOY!)
 
