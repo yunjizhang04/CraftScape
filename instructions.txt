@@ -1,0 +1,35 @@
+The game uses WASD keys to move.
+
+As a player, your goal is to craft items and survive until you are able to
+escape the area via the main entrance (the big orange entrance).
+
+You may use the dropbox on the top of the screen to craft. You will only
+be able to craft items if you have the needed amount of materials.
+
+You can get materials by 
+- clicking on trees (trees have a limited supply of logs. Must wait for 
+tree to replenish before getting more logs from that same tree)
+	- trees have a random chance of dropping an apple. (Apples are also limited)
+
+- clicking on the cave
+	- player cannot access the cave unless they have a pickaxe.
+	- players can only get stone if they have a wooden pickaxe.
+	- player can get stone and iron if they have a stone pickaxe
+	- players can get stone iron and gold if they have an iron pickaxe
+	- caves do not have a limited supply of materials
+
+- clicking on the river
+	- you can only get water if you have a bowl
+
+Once night comes, players will die from the cold if they do not have a fireplace.
+	- you can craft a fireplace
+	- your fireplace will burn out, you need to constantly supply it 
+	  with logs
+	- you can place the fireplace on the grey looking slab
+
+You can skip nighttime by building a house. You can craft a house by clicking
+on the black gravel looking square.
+
+To escape, you must craft the golden key :O
+
+Good luck and have fun!
