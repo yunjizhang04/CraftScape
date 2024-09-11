@@ -39,6 +39,7 @@ Some other words
 
 
 **Game Instructions**
+
 The game uses WASD keys to move.
 
 As a player, you aim to craft items and survive until you can escape the area via the main entrance (the big orange entrance).
