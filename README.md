@@ -37,7 +37,8 @@ Bugs or errors
 Some other words
  - the texts beside the character does not update as often as I'd like it to. The user also cannot tell when user collects more than one of the same materials
 
-#Game Instructions
+
+**Game Instructions**
 The game uses WASD keys to move.
 
 As a player, you aim to craft items and survive until you can escape the area via the main entrance (the big orange entrance).
@@ -58,7 +59,7 @@ You can get materials by
 Once night comes, players will die from the cold if they do not have a fireplace.
 - you can craft a fireplace
 - your fireplace will burn out, you must constantly supply it with logs
-- you can place the fireplace on the grey looking slab
+- you can place the fireplace on the grey-looking slab
 
 You can skip nighttime by building a house. You can craft a house by clicking on the black gravel-looking square with the required materials in your inventory.
 
